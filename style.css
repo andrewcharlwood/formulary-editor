@@ -1,0 +1,8 @@
+body{margin:0;background:#f0f4f5;color:#212b32;font:17px/1.6 Arial,Helvetica,sans-serif}
+header{background:#005eb8;color:#fff;padding:18px 16px}
+header p{margin:0;max-width:720px;margin:0 auto;font-weight:bold;font-size:20px}
+main{max-width:720px;margin:0 auto;padding:24px 16px 48px;background:#fff}
+h1{font-size:30px;line-height:1.25;margin:0 0 4px;color:#003087}
+h2{font-size:21px;margin:28px 0 6px;color:#003087}
+.updated{color:#4c6272;margin:0 0 20px}
+a{color:#005eb8}
